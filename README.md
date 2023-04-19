@@ -13,3 +13,6 @@ Multiple commit test
 ## I am triying multiple comment -02
 
 Multiple commit test 02
+
+# Feature branch update
+I am on my feature branch!
